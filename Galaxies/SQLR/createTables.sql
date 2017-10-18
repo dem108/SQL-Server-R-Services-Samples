@@ -1,3 +1,5 @@
+create database Galaxies;
+
 -- =============================================
 -- Description:	Table used for storing trained models. 
 -- =============================================
